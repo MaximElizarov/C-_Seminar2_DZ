@@ -1,0 +1,15 @@
+C:\C#_seminar2_DZ\zadatya13\bin\Debug\net6.0\zadatya13.exe
+C:\C#_seminar2_DZ\zadatya13\bin\Debug\net6.0\zadatya13.deps.json
+C:\C#_seminar2_DZ\zadatya13\bin\Debug\net6.0\zadatya13.runtimeconfig.json
+C:\C#_seminar2_DZ\zadatya13\bin\Debug\net6.0\zadatya13.dll
+C:\C#_seminar2_DZ\zadatya13\bin\Debug\net6.0\zadatya13.pdb
+C:\C#_seminar2_DZ\zadatya13\obj\Debug\net6.0\zadatya13.csproj.AssemblyReference.cache
+C:\C#_seminar2_DZ\zadatya13\obj\Debug\net6.0\zadatya13.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#_seminar2_DZ\zadatya13\obj\Debug\net6.0\zadatya13.AssemblyInfoInputs.cache
+C:\C#_seminar2_DZ\zadatya13\obj\Debug\net6.0\zadatya13.AssemblyInfo.cs
+C:\C#_seminar2_DZ\zadatya13\obj\Debug\net6.0\zadatya13.csproj.CoreCompileInputs.cache
+C:\C#_seminar2_DZ\zadatya13\obj\Debug\net6.0\zadatya13.dll
+C:\C#_seminar2_DZ\zadatya13\obj\Debug\net6.0\refint\zadatya13.dll
+C:\C#_seminar2_DZ\zadatya13\obj\Debug\net6.0\zadatya13.pdb
+C:\C#_seminar2_DZ\zadatya13\obj\Debug\net6.0\zadatya13.genruntimeconfig.cache
+C:\C#_seminar2_DZ\zadatya13\obj\Debug\net6.0\ref\zadatya13.dll

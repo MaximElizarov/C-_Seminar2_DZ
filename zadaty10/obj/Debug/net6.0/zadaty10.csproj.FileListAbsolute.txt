@@ -1,0 +1,15 @@
+C:\C#_seminar2_DZ\zadaty10\bin\Debug\net6.0\zadaty10.exe
+C:\C#_seminar2_DZ\zadaty10\bin\Debug\net6.0\zadaty10.deps.json
+C:\C#_seminar2_DZ\zadaty10\bin\Debug\net6.0\zadaty10.runtimeconfig.json
+C:\C#_seminar2_DZ\zadaty10\bin\Debug\net6.0\zadaty10.dll
+C:\C#_seminar2_DZ\zadaty10\bin\Debug\net6.0\zadaty10.pdb
+C:\C#_seminar2_DZ\zadaty10\obj\Debug\net6.0\zadaty10.csproj.AssemblyReference.cache
+C:\C#_seminar2_DZ\zadaty10\obj\Debug\net6.0\zadaty10.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#_seminar2_DZ\zadaty10\obj\Debug\net6.0\zadaty10.AssemblyInfoInputs.cache
+C:\C#_seminar2_DZ\zadaty10\obj\Debug\net6.0\zadaty10.AssemblyInfo.cs
+C:\C#_seminar2_DZ\zadaty10\obj\Debug\net6.0\zadaty10.csproj.CoreCompileInputs.cache
+C:\C#_seminar2_DZ\zadaty10\obj\Debug\net6.0\zadaty10.dll
+C:\C#_seminar2_DZ\zadaty10\obj\Debug\net6.0\refint\zadaty10.dll
+C:\C#_seminar2_DZ\zadaty10\obj\Debug\net6.0\zadaty10.pdb
+C:\C#_seminar2_DZ\zadaty10\obj\Debug\net6.0\zadaty10.genruntimeconfig.cache
+C:\C#_seminar2_DZ\zadaty10\obj\Debug\net6.0\ref\zadaty10.dll
